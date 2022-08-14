@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uttamstha123/Dhumbal-Score-Board/static/css/main.c7ec3132.css",
+    "main.js": "/uttamstha123/Dhumbal-Score-Board/static/js/main.f98839fc.js",
+    "index.html": "/uttamstha123/Dhumbal-Score-Board/index.html",
+    "main.c7ec3132.css.map": "/uttamstha123/Dhumbal-Score-Board/static/css/main.c7ec3132.css.map",
+    "main.f98839fc.js.map": "/uttamstha123/Dhumbal-Score-Board/static/js/main.f98839fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.f98839fc.js"
+  ]
+}
